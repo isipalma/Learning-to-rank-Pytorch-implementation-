@@ -5,6 +5,7 @@ Implementacion en Pytorch del paper "learning to rank short text pairs with conv
 ## Dependencies
 1. Python 3.X
 2. Pytorch (compatible con la version de python que utilices)
+3. Sklearn
 
 ## TO DO
 
